@@ -75,3 +75,21 @@ The team talked about website style. and decide to use same color,font,style for
 Action Items:
 1. All the team member will continue to collect information and finish their page of HTML. 
 2. Shiyu will design the sytle(.CSS) of pages .
+
+----------------------------
+Fifth Meeting Summary
+Date: 15 February, 1:40PM to 2:30PM
+Meeting Minutes Taker: Meredith
+
+Agenda: 
+1. The group reviewed their progress on their pages for the website. Each member had updated the repository with drafts of HTML documents for the pages assigned and the image files therein. Shiyu had created a draft of the stylesheet to be used for the entire site.
+2. The group discussed problems encountered linking files within the repository and agreed on a solution: the member who submits the assignment to LEA will insert the appropriate file paths into the code once all of the files are complete.
+3. The group made a plan to complete a list of tasks for the following day and set a time for the next meeting.
+
+Action Items:
+1. Insert the code for the Navigation bar and Footer into each HTML document, using the class for "Current Page" as necessary.
+2. Add comments within documents where relevant.
+3. Validate completed documents with the WC3 HTML and CSS validators.
+4. Test pages with styles in different browsers and upload screenshots to the repository for later comparison.
+5. Shiyu will upload a first draft of the homepage.
+6. Meredith will create a folder in the repository for the screenshots.
