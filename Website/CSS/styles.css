@@ -96,3 +96,29 @@ footer {
 #logosofthegames {
   width: 300px;
 }
+
+
+/* CSS for Home page*/
+.container {
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color:#f2f2f2;
+}
+
+#basketballfield_home{
+  width: 1100px;
+}
+
+#title_home {
+  font-size: 30pt;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* CSS for Home page ends here*/
