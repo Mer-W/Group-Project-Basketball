@@ -93,3 +93,27 @@ Action Items:
 4. Test pages with styles in different browsers and upload screenshots to the repository for later comparison.
 5. Shiyu will upload a first draft of the homepage.
 6. Meredith will create a folder in the repository for the screenshots.
+
+
+----------------------------
+Sixth Meeting Summary
+Date: February 16th, 9:00 AM to 9:40 AM
+Attendees: Entire Group
+Meeting Minutes Taker: Shiyu
+
+
+Agenda:
+The group discussed whether to resize the original images in graphic software and decided to ask Stephanie for the final decision.
+All the html files were reviewed to ensure a consistent format for the header and footer.
+The team rearranged the order of the items in the navigation bar to improve user experience.
+The team decided to meet at 1:00 pm today to discuss progress on Word and PowerPoint.
+
+Action Items:
+1. Meredith:
+- Update the width of the website navigation bar in CSS.
+- Contact Stephanie to get a final decision on resizing images.
+2. Shiyu:
+- Rearrange the order of the navigation bar in HTML.
+- Link all pages together in HTML.
+3. Pejman and Hongbo:
+- Consider and plan the content for Word and PowerPoint documents.
