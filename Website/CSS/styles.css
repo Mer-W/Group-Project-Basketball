@@ -148,3 +148,10 @@ p{
 .footer{
   text-align: center;
 }
+/* CSS for Best Palyers page. */
+.paragraphs-BPs{
+  text-align: left;
+  line-height: 1.8;
+  margin:0 auto;
+  max-width: 1000px;
+}
