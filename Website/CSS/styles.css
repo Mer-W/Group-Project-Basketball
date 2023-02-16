@@ -1,9 +1,11 @@
 /* This is the CSS for Basketball website-Group 3 */
 
 body{
+    
+    
     text-align: center;
-    margin-left: 144px;
-    margin-right: 144px;
+    margin: auto;
+    margin-top: 0px;
     font-family: Arial, Helvetica, sans-serif;
     color:#1a202c;
 
@@ -18,31 +20,35 @@ body{
 /* Style the header */
 
 header {
-    color: white;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    padding: 10px;
+    background-color: whitesmoke;
+    display: flexbox;
+    width: 100%;
+    min-width: 1000px;
+    position:fixed;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
   }
 
   /* Style the logo Basketball*/
   .logo {
-    width: 150px;
+    width: 250px;
+    float: left;
+    padding-left: 15px;
   }
 
   /* Style the navigation menu in side the header */
   nav {
-    padding: 10px;
-    padding-left: 200px;
+    padding-right: 20px;
+    float: right;
   }
 
   /* Style the navigation links in side the header */
   nav a {
-    padding: 10px;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 10pt;
     color: #1a202c;
-    padding-left: 10px;
+    padding-left: 15px;
   }
 
 /* Style the current page category */
@@ -55,8 +61,8 @@ header {
     background-color: #f2f2f2;
     color: #1a202c;
     padding: 30px;
+    padding-top: 100px;
     text-align: center;
-    margin-top: 10px;
     margin-bottom: 60px;
   }
 
@@ -126,3 +132,20 @@ footer {
 }
 
 /* CSS for Home page ends here*/
+
+
+/* adjustments to text */
+p{
+  text-align: justify;
+
+  ;
+}
+.paragraphs{
+  margin: auto;
+  width: 800px;
+}
+
+.paragraphs img{
+  float: right;
+  padding: 20px;
+}
