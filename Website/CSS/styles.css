@@ -76,36 +76,31 @@ footer {
   font-size:10pt;
 }
 
-
-/* Style image container */
-.image-container {
-    width:500px;
-    height:330px;
-    overflow:hidden;
+/*Style Headings*/
+h2{
+  margin-bottom: 50px;
 }
 
-/* Style image */
-.image-container img {
-    width: auto;
-    height: 100%;
-    object-fit: cover;
+h3{
+  margin-top: 50px;
 }
 
+/* CSS for Special Event page. */
 
 #firstparagraph_specialevents {
-    width: 500px;
-    float:left;
+  width: 500px;
+  float:left;
 }
 
 #toprightimage {
-  padding-left: 30px;
-  float:right;
-
+padding-left: 30px;
+float:right;
 }
 
-#logosofthegames {
-  width: 300px;
-}
+#logosofthegames{
+  margin-left: 130px;
+  }
+
 
 
 /* CSS for Home page*/
