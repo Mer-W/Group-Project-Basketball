@@ -6,6 +6,12 @@ body{
     margin-right: 144px;
     font-family: Arial, Helvetica, sans-serif;
     color:#1a202c;
+
+/* trying out a gradient background--it might look more profressional than solid white.
+    --Meredith */
+
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(231, 225, 213));
+    background-attachment: fixed;
 }
 
 
@@ -18,7 +24,6 @@ header {
     text-align: center;
     padding: 10px;
   }
-
 
   /* Style the logo Basketball*/
   .logo {
@@ -79,7 +84,6 @@ footer {
     height: 100%;
     object-fit: cover;
 }
-
 
 
 #firstparagraph_specialevents {
