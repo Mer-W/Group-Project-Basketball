@@ -11,4 +11,33 @@ Main pages of the events, which will be created as heyper links:
 4. EuroLeague Final Four: https://www.euroleaguebasketball.net/euroleague/final-four/
 5. FIBA Americas Championship: https://www.fiba.basketball/americup/2022
 
+Image URL:
+
+1. FIBA.jpeg
+https://www.fiba.basketball/api/img/graphic/b2b69947-764f-4b9c-9aa8-dbd519ff7ebc/1000/1000?mt=.jpg
+
+2. Olympic_Games.jpg: 
+https://www.fiba.basketball/images.fiba.com/Graphic/6/D/B/7/5rTyfZ3sHEuavR1H9bb5nw.jpg?v=20210831131310350
+
+3. FIBA-2.jpeg
+https://www.fiba.basketball/api/img/graphic/ae70c8c3-71ad-4fdd-a403-0151d61ed491/1000/1000?mt=.jpg 
+
+4. NBA.jpeg
+https://image.roku.com/blog/wp-content/uploads/2020/07/21LP_RokuPromo_1200x628_20221215-1.jpg
+
+5.EuroLeague.webp
+https://media-cdn.incrowdsports.com/a171e9d1-3bca-4e62-b03e-728f5e966482.jpg?crop=2400:1350:nowe:257:232&width=1920&resizeType=fill&format=webp
+
+5. FIBA_American.jpeg
+https://www.fiba.basketball/images.fiba.com/Graphic/D/F/8/8/vWhQzxsMdUi7XnO4QR7ZVg.jpg?v=20220912065008421
+
+   
+
+
+
 ------------------------------
+
+Home
+Image URL:
+
+Background Image: https://unsplash.com/photos/O2kqxbix4Mw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
