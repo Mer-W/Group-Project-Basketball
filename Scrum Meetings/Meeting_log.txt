@@ -127,7 +127,7 @@ Meeting Minutes Taker: Pejman
 Agenda:
 The team handled the problem of the source of image tags by adding “../” at the beginning of each address.
 The team chose a new style for the Home page.
-The team assigned a header and a footer for each HTML page.
+The team assigned a new header and a new footer for each HTML page.
 The team assigned a new platform for sharing the Word and the Power point projects.
 
 Action Items:
