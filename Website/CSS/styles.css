@@ -142,16 +142,14 @@ p{
   padding: 50px;
   width: 800px;
   background-color: #ffffffee;
+/* Height provision for image overflow */
+  min-height: 800px;
   
 }
 
 .paragraphs img{
   float: right;
   padding: 20px;
-}
-
-.footer{
-  text-align: center;
 }
 
 
@@ -168,7 +166,3 @@ p{
   margin-right: -20px;
 }
 
-/* Height provision for image overflow */
-#bballCA{
-  height: 900px;
-}
