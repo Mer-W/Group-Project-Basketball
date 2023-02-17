@@ -199,6 +199,15 @@ p{
   padding: 20px;
 }
 
+/* image styles for History and Basketball in Canada */
+
+.containerP{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+}
+
 
 /* CSS for Best Palyers page. */
 .paragraphs-BPs{
