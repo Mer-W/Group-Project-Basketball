@@ -177,8 +177,13 @@ p{
 .paragraphs-BPs{
   text-align: left;
   line-height: 1.8;
-  margin:0 auto;
+  padding: 50px;
+  margin:auto;
   max-width: 1000px;
+  background-color: #f2f2f2ce;
+}
+.headTxt-Bps{
+  text-align: center;
 }
 
 .Basketball_through_hoop{
