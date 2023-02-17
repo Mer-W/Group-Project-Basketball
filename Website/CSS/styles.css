@@ -83,6 +83,14 @@ h3{
   margin-top: 50px;
 }
 
+/* Style for hyperlinks */
+a{
+  color: #1a202c;
+}
+a:hover {
+  color: chocolate;
+}
+
 /* CSS for Special Event page. */
 
 #logo_images {
