@@ -141,7 +141,7 @@ p{
   margin: auto;
   padding: 50px;
   width: 800px;
-  background-color: #f2f2f2ce;
+  background-color: #ffffffee;
   
 }
 
@@ -166,4 +166,9 @@ p{
 
 .Basketball_through_hoop{
   margin-right: -20px;
+}
+
+/* Height provision for image overflow */
+#bballCA{
+  height: 900px;
 }
