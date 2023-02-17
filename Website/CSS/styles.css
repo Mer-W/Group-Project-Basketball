@@ -12,7 +12,8 @@ body{
 /* trying out a gradient background--it might look more profressional than solid white.
     --Meredith */
 
-    background-image: linear-gradient(rgb(255, 255, 255), rgb(231, 225, 213));
+    background:url(../Images/background.jpg) center no-repeat;
+    background-size: cover;
     background-attachment: fixed;
 }
 
@@ -20,7 +21,7 @@ body{
 /* Style the header */
 
 header {
-    background-color: whitesmoke;
+    background-color: rgb(248, 248, 248);
     display: flexbox;
     width: 100%;
     min-width: 1000px;
@@ -137,7 +138,10 @@ p{
 }
 .paragraphs{
   margin: auto;
+  padding: 50px;
   width: 800px;
+  background-color: #f2f2f2ce;
+  
 }
 
 .paragraphs img{
