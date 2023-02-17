@@ -117,3 +117,24 @@ Action Items:
 - Link all pages together in HTML.
 3. Pejman and Hongbo:
 - Consider and plan the content for Word and PowerPoint documents.
+
+----------------------------
+Seventh Meeting Summary
+Date: February 16th, 1:00 PM to 1:50 PM
+Attendees: Entire Group
+Meeting Minutes Taker: Pejman
+
+Agenda:
+The team handled the problem of the source of image tags by adding “../” at the beginning of each address.
+The team chose a new style for the Home page.
+The team assigned a header and a footer for each HTML page.
+The team assigned a new platform for sharing the Word and the Power point projects.
+
+Action Items:
+1. Shiyu and Meredith:
+- Managing all the HTML files.
+2. Hong Bo:
+- Working on the Power point presentation file
+3. Pejman:
+- Finishing the Word file
+----------------------------
