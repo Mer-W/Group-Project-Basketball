@@ -101,6 +101,15 @@ float:right;
   margin-left: 130px;
   }
 
+#introducetext {
+  text-align: justify;
+}
+
+.paragraphs_2 {
+  margin: auto;
+  width: 800px;
+
+}
 
 
 /* CSS for Home page*/
