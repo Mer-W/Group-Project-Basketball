@@ -181,6 +181,7 @@ p{
 }
 .paragraphs{
   margin: auto;
+  margin-bottom: 100px;
   padding: 50px;
   width: 800px;
   background-color: #ffffffee;
