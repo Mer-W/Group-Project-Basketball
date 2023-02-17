@@ -138,3 +138,29 @@ Action Items:
 3. Pejman:
 - Finishing the Word file
 ----------------------------
+
+Ninth Meeting Summary
+Date: February 17th, 1:00PM to 2:10PM
+Attendees: Entire Group
+Meeting Minutes Taker: Meredith
+
+Agenda:
+The group reviewed the remaining tasks of the project.
+The presentation was planned and divided into tasks assigned each member.
+The group agreed on a method to collaborate on the Word document.
+The group agreed to complete tasks over the weekend and meet again on Sunday at 3:00PM.
+
+Action Items:
+1. Shiyu will ask Stephanie about instructions for the use of diagramming software.
+2. Meredith will ask Stephanie for guidelines about the number of slides in the PowerPoint.
+3. Meredith and Pejman will make edits to the layout of the pages "History" and "Basketball in Canada".
+4. Contribute to the PowerPoint on OneDrive. Each member will add content relevent to the web pages they created.
+5. Review the Word document. Those who make edits will upload a new copy to OneDrive with the following:
+     - name and date in the file name
+     - additions in green
+     - deletions in red
+6. Write drafts for the oral presentation and share in the Teams chat:
+     - Introduction, website structure: Hong Bo
+     - Layout: Shiyu
+     - Design: Meredith
+     - Issues, process: Pejman
