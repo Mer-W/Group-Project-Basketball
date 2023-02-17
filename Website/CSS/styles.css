@@ -7,8 +7,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color:#1a202c;
 
-/* trying out a gradient background--it might look more profressional than solid white.
-    --Meredith */
+/* Background style */
 
     background:url(../Images/background.jpg) center no-repeat;
     background-size: cover;
@@ -19,7 +18,7 @@ body{
 /* Style the header */
 
 header {
-    background-color: rgb(248, 248, 248);
+    background-color: rgb(255, 255, 255);
     display: flexbox;
     width: 100%;
     min-width: 1100px;
@@ -105,6 +104,15 @@ float:right;
 /* CSS for Home page*/
 .container {
   position: relative;
+}
+
+.container{
+  margin: auto;
+  margin-top: 200px;
+  padding: 50px;
+  width: 800px;
+  height: 250px;
+  background-color: #16161697;
 }
 
 .text {
