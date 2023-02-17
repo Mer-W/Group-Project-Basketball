@@ -1,8 +1,6 @@
 /* This is the CSS for Basketball website-Group 3 */
 
-body{
-    
-    
+body{  
     text-align: center;
     margin: auto;
     margin-top: 0px;
@@ -24,7 +22,7 @@ header {
     background-color: rgb(248, 248, 248);
     display: flexbox;
     width: 100%;
-    min-width: 1000px;
+    min-width: 1100px;
     position:fixed;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -35,7 +33,7 @@ header {
   .logo {
     width: 250px;
     float: left;
-    padding-left: 15px;
+    padding-left: 50px;
   }
 
   /* Style the navigation menu in side the header */
@@ -47,7 +45,7 @@ header {
   /* Style the navigation links in side the header */
   nav a {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 10pt;
+    font-size: 11pt;
     color: #1a202c;
     padding-left: 15px;
   }
@@ -133,8 +131,6 @@ float:right;
 /* adjustments to text */
 p{
   text-align: justify;
-
-  ;
 }
 .paragraphs{
   margin: auto;
@@ -152,10 +148,17 @@ p{
 .footer{
   text-align: center;
 }
+
+
+
 /* CSS for Best Palyers page. */
 .paragraphs-BPs{
   text-align: left;
   line-height: 1.8;
   margin:0 auto;
   max-width: 1000px;
+}
+
+.Basketball_through_hoop{
+  margin: -20px;
 }
